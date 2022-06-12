@@ -1,0 +1,27 @@
+.header_div {
+    color:rgb(255, 0, 0);
+    background-color:rgb(255, 255, 255);
+    font-size: large;
+
+}
+
+#main_div {
+    background-color: rgb(216, 232, 222);
+    font-family: 'Roboto', sans-serif;
+    margin-top: 30px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: #c8e9ff;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+background-color: #fff8d7;
+line-height: 3;
+text-align: center;
+text-shadow: 5px 5px 5px rgb(105, 104, 180);
+}
+
